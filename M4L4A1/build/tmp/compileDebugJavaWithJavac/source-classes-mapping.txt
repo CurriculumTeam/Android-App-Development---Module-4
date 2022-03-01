@@ -1,0 +1,7 @@
+com/example/m4l4a1/MainActivity.java
+ com.example.m4l4a1.MainActivity
+com/example/m4l4a1/BuildConfig.java
+ com.example.m4l4a1.BuildConfig
+com/example/m4l4a1/Splash.java
+ com.example.m4l4a1.Splash
+ com.example.m4l4a1.Splash$1
