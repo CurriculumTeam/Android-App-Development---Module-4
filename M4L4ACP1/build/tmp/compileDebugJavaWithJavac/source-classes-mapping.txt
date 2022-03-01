@@ -1,0 +1,10 @@
+com/example/m4l4acp1/BuildConfig.java
+ com.example.m4l4acp1.BuildConfig
+com/example/m4l4acp1/customdatatype.java
+ com.example.m4l4acp1.customdatatype
+com/example/m4l4acp1/MainActivity.java
+ com.example.m4l4acp1.MainActivity
+ com.example.m4l4acp1.MainActivity$1
+com/example/m4l4acp1/splash.java
+ com.example.m4l4acp1.splash
+ com.example.m4l4acp1.splash$1
