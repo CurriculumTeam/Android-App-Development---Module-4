@@ -1,0 +1,4 @@
+com/example/m4l1a2/MainActivity.java
+ com.example.m4l1a2.MainActivity
+com/example/m4l1a2/BuildConfig.java
+ com.example.m4l1a2.BuildConfig
