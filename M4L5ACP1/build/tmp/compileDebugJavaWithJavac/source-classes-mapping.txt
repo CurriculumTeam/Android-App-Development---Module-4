@@ -1,0 +1,10 @@
+com/example/m4l5acp1/Fragmentclassa.java
+ com.example.m4l5acp1.Fragmentclassa
+com/example/m4l5acp1/BuildConfig.java
+ com.example.m4l5acp1.BuildConfig
+com/example/m4l5acp1/MainActivity2.java
+ com.example.m4l5acp1.MainActivity2
+com/example/m4l5acp1/MainActivity.java
+ com.example.m4l5acp1.MainActivity
+com/example/m4l5acp1/Fragmentclassb.java
+ com.example.m4l5acp1.Fragmentclassb
