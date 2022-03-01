@@ -1,0 +1,9 @@
+com/example/m4l5a1/our_fragment.java
+ com.example.m4l5a1.our_fragment
+ com.example.m4l5a1.our_fragment$1
+com/example/m4l5a1/MainActivity2.java
+ com.example.m4l5a1.MainActivity2
+com/example/m4l5a1/BuildConfig.java
+ com.example.m4l5a1.BuildConfig
+com/example/m4l5a1/MainActivity.java
+ com.example.m4l5a1.MainActivity
